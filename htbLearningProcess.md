@@ -2,6 +2,8 @@
 
 Learn how to "learn" with HackTheBox
 
+Notion who? I use github markdown baby!!!!!
+
 ## Section 1. The Mindset
 ### 1.1. Way of Thinking.
 We do not need to learn every programming language to understand how to read their code. All of them follow the same principles which R. D. Tennent initially defined:
@@ -195,4 +197,49 @@ There are many different management techniques and methods that we can use.These
 - Bullet Journal and more.
 
 ## Section 4. The Process
+
+### 4.1 What Are Focus?
+
+It is essential to differentiate between **focus** and **attention** because they are not the same. 
+
+- **Attention** refers to **the momentum,** as it is happening right now, and you are reading this text.
+-  However, the **focus** is on the **topic** you are dealing with at the moment.
+
+The **focus** is based on our **will** and what we want to achieve. It can be a **conscious** decision and a **subconscious** decision guided by external influences.
+
+- **Focusing is the purposeful and deliberate alignment to a specific goal.**
+
+Focused people are not only enormously persistent and tenacious, but they are also hardly distracted or discouraged. If we know our goal, it is easier to align our focus accordingly. This, in turn, makes us much more efficient, and we get closer to our goal much faster and do not let ourselves be distracted by external influences.
+
+### 4.2 Attention
+
+=> *It can be said that attention is the perception of a specific topic with a higher level of interest in order to gather specific data and information from it.*
+
+- **Attention is influenced by your interests, needs, personal attitudes, beliefs, orientations, goals, and experiences.**
+
+Attention is an independent mental process that takes place **subconsciously.** So when we talk about **concentration,** we mean the maintenance of our attention on a specific topic. Keep in mind that our attention changes with our experience and the information we gain from the content and its clarity.
+
+### 4.3 Comfort
+
+#### **Yerkes-Dodson**
+
+![Yerkes-Dodson](./images/newYerkesDodsonLaw.png "The Yerkes Dodson Law")
+
+When we leave the so-called comfort zone, we enter a situation or field where we have little or no experience. This kind of uncertainty lowers our ability to think and has a powerful impact on our thought processes, which, in turn, slows us down.
+
+The fact that small children do not exhibit such uncertainty is interesting.
+
+- **They love to try out something new all the time and are not afraid or uncertain of making mistakes.**
+
+After all, **mistakes are an essential part of the learning process,** and we should always keep it in mind.
+
+An interesting question that arises here is: "Why small children, unlike adults, do not feel such uncertainty?"
+
+![Comfort Zone](./images/theComfortZone.png "Comfort Zone")
+
+Those who chose to leave the comfort zone would reach their destination faster than they thought they would. They would never have sprinted at such speed before in their lives.
+
+
+
+
 
