@@ -290,7 +290,7 @@ Another factor often perceived as an obstacle is comparing skill, talent, and pa
 "Yes, not everyone can be a great hacker, but a great hacker can comes from everyone"
 ```
 
-### Pressure
+### _Pressure_
 
 If we find ourselves in a situation where we do not know what to do, we can pursue some activity requiring us to do something new. It does not matter what we do, but rather that it requires our creativity.
 
