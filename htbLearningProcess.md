@@ -1,8 +1,8 @@
 # **Hack The Box - Learning Process**
 
-Learn how to "learn" with HackTheBox
+#### **Learn how to "learn" with HackTheBox**
 
-Notion who? I use github markdown baby!!!!!
+Just my note on the Learning Process module in HackTheBox 
 
 ## Section 1. The Mindset
 ### 1.1. Way of Thinking.
@@ -198,7 +198,7 @@ There are many different management techniques and methods that we can use.These
 
 ## Section 4. The Process
 
-### 4.1 What Are Focus?
+### 4.1. What Are Focus?
 
 It is essential to differentiate between **focus** and **attention** because they are not the same. 
 
@@ -211,7 +211,7 @@ The **focus** is based on our **will** and what we want to achieve. It can be a 
 
 Focused people are not only enormously persistent and tenacious, but they are also hardly distracted or discouraged. If we know our goal, it is easier to align our focus accordingly. This, in turn, makes us much more efficient, and we get closer to our goal much faster and do not let ourselves be distracted by external influences.
 
-### 4.2 Attention
+### 4.2. Attention
 
 => *It can be said that attention is the perception of a specific topic with a higher level of interest in order to gather specific data and information from it.*
 
@@ -219,13 +219,13 @@ Focused people are not only enormously persistent and tenacious, but they are al
 
 Attention is an independent mental process that takes place **subconsciously.** So when we talk about **concentration,** we mean the maintenance of our attention on a specific topic. Keep in mind that our attention changes with our experience and the information we gain from the content and its clarity.
 
-### 4.3 Comfort
+### 4.3. Comfort
 
-#### **Yerkes-Dodson**
+### **Yerkes-Dodson**
 
 ![Yerkes-Dodson](./images/newYerkesDodsonLaw.png "The Yerkes Dodson Law")
 
-When we leave the so-called comfort zone, we enter a situation or field where we have little or no experience. This kind of uncertainty lowers our ability to think and has a powerful impact on our thought processes, which, in turn, slows us down.
+When we leave the so-called **comfort zone,** we enter a situation or field where we have little or no experience. This kind of uncertainty lowers our ability to think and has a powerful impact on our thought processes, which, in turn, slows us down.
 
 The fact that small children do not exhibit such uncertainty is interesting.
 
@@ -239,6 +239,27 @@ An interesting question that arises here is: "Why small children, unlike adults,
 
 Those who chose to leave the comfort zone would reach their destination faster than they thought they would. They would never have sprinted at such speed before in their lives.
 
+### 4.4. Obstacle
+
+### _The Fear_
+
+Imaginary fear is directed at events we imagine with consequences that we calculate. However, there is one crucial aspect that we cannot leave out:
+
+- **People fear what might happen in the future while not considering the present.**
+
+Fear in non-life-threatening situations lies in the thoughts of the 'imaginary' future. In a future that we imagine and imagine ourselves. The more detailed we imagine it, the greater the fear becomes. Will Smith has also reported his experience with the confrontation with his fear.
+
+https://youtu.be/VsTBCQ2MnRM
+
+However, if we find ourselves feeling such fear, then we should answer the following question in as much detail as possible:
+
+- "Which of the mentioned reasons are actually real right now?"
+
+Another factor that reinforces this imaginary fear and makes us think we will fail is our previous failures. One thing we should remember in advance, write it down and hang it on the wall where we can always see it:
+
+- **The difference between a winner and a loser is that the winner has lost more often than the loser.**
+
+=> Failure is essential to learning and unavoidable. No one has ever acquired a skill without making a single mistake. It is quite the opposite. 
 
 
 
