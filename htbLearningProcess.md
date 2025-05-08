@@ -1,6 +1,5 @@
 # **Hack The Box - Learning Process**
 
-#### **Learn how to "learn" with HackTheBox**
 
 Just my note on the Learning Process module in HackTheBox 
 
@@ -257,10 +256,55 @@ However, if we find ourselves feeling such fear, then we should answer the follo
 
 Another factor that reinforces this imaginary fear and makes us think we will fail is our previous failures. One thing we should remember in advance, write it down and hang it on the wall where we can always see it:
 
-- **The difference between a winner and a loser is that the winner has lost more often than the loser.**
+```
+The difference between a winner and a loser is that the winner has lost more often than the loser.
+```
 
 => Failure is essential to learning and unavoidable. No one has ever acquired a skill without making a single mistake. It is quite the opposite. 
 
+### _Mindset_
 
+It is in these situations that our excuses come up, like:
 
+- I cannot do this
+- This is not for me
+- I do not understand this
+- etc.
+
+The only thing we have to do is to add the word "yet."
+
+- I cannot do this **"yet."**
+- This is not for me **"yet."**
+- I do not understand this **"yet."**
+- etc.
+
+This has the effect of stimulating our beliefs and thus the mindset to pass this obstacle.
+
+Another factor often perceived as an obstacle is comparing skill, talent, and passion. However, we have already learned what constitutes talent.
+
+- Talent is a strongly developed skill with high efficiency.
+- Skill is the ability to manage or solve something well.
+- Passion is an emotional commitment to a particular area.
+
+```
+"Yes, not everyone can be a great hacker, but a great hacker can comes from everyone"
+```
+
+### Pressure
+
+If we find ourselves in a situation where we do not know what to do, we can pursue some activity requiring us to do something new. It does not matter what we do, but rather that it requires our creativity.
+
+It is good to know that we only feel verbally attacked by people we attribute a high value to is essential. For example, there is a big difference between a stranger on the street calling us an "idiot" and one of our loved ones. So if we think highly of the person or their abilities, we will value their statements highly and often even place them above our own opinions. Otherwise, we care little about what that person says.
+
+We can eliminate external influences more easily than many might think. All we need is our clearly defined goal. If we have such a goal that we follow passionately, hardly anyone will talk us out of it. It is even less likely if we know that we can achieve this goal.
+
+We should remember the following:
+
+- Only the person who has taken the exact same journey as you can evaluate you and your decisions. Everything else is only assumptions.
+
+### 4.5 Questioning
+
+Especially in our field of cyber security and above all in penetration testing, we should keep the following in mind:
+
+- **The most important and most difficult thing in any situation is not the search for the right answer but the search for the right question.**
 
