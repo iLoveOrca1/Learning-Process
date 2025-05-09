@@ -71,6 +71,8 @@ Here are a few **myths** about the brain:
 
 - A thought is an **individual process** (action/reaction) to one or more **influences** (internal/external) in which information is **interpreted and linked** inwardly according to our **personal methodology** (developed through our existing lifetimes).
 
+- A thought is an **individual process** to one or more **influences** in which information is **interpreted and linked** inwardly according to our **personal methodology.**
+
 Conscious Thought
 
 - **Consciousness** describes the totality of all those **mental processes** by which we become **aware** of the **external and our internal world** with **active observation.** Therefore, when we actively observe that we are looking at a monitor full of text and can decide to change the situation if necessary and **intentionally look** elsewhere, we are in consciousness.
