@@ -1,6 +1,5 @@
 <p align="center">
-    <img src="https://github.com/iLoveOrca1/Learning-Process/tree/main/images/HTB.jpeg?raw=true" width="400" alt="HTB Logo">
-    </a>
+    <img src="https://github.com/iLoveOrca1/Learning-Process/blob/main/images/HTB.jpeg?raw=true" width="400" alt="HTB Logo">
 </p>
 
 <p align="center">
