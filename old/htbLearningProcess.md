@@ -50,7 +50,7 @@ To be good at something means we know **what we are doing.**
 
 ### 2.3. Learning Types.
 
-![Learning Pyramid](./images/learningPyramid.jpg "Learning Pyramid")
+![Learning Pyramid](images/learningPyramid.jpg "Learning Pyramid")
 
 - There are two types of learning. That are:
 
@@ -137,7 +137,7 @@ Just like a switch, efficiency WILL conflicts with comfort.
 
 "A train speeds unbraked toward a group of five-track workers. The switchman might divert the train to a siding where only one person is working. Should he sacrifice one person to save five others?"
 
-![Trolley Problem](./images/trolleyProblem.png "Trolley Problem")
+![Trolley Problem](images/trolleyProblem.png "Trolley Problem")
 
 Here, at first sight we only two options:
 
@@ -146,7 +146,7 @@ Here, at first sight we only two options:
 
 Let's consider the following solution to the trolley problem:
 
-![Trolley Problem Solved](./images/trolleyProblemSolved.png "Trolley Problem Solved")
+![Trolley Problem Solved](images/trolleyProblemSolved.png "Trolley Problem Solved")
 
 The red lines represent ropes, and the blue circles represent pillars that we have placed. The first thing that comes to mind is:
 
@@ -224,7 +224,7 @@ Attention is an independent mental process that takes place **subconsciously.** 
 
 ### **Yerkes-Dodson**
 
-![Yerkes-Dodson](./images/newYerkesDodsonLaw.png "The Yerkes Dodson Law")
+![Yerkes-Dodson](images/newYerkesDodsonLaw.png "The Yerkes Dodson Law")
 
 When we leave the so-called **comfort zone,** we enter a situation or field where we have little or no experience. This kind of uncertainty lowers our ability to think and has a powerful impact on our thought processes, which, in turn, slows us down.
 
@@ -236,7 +236,7 @@ After all, **mistakes are an essential part of the learning process,** and we sh
 
 An interesting question that arises here is: "Why small children, unlike adults, do not feel such uncertainty?"
 
-![Comfort Zone](./images/theComfortZone.png "Comfort Zone")
+![Comfort Zone](images/theComfortZone.png "Comfort Zone")
 
 Those who chose to leave the comfort zone would reach their destination faster than they thought they would. They would never have sprinted at such speed before in their lives.
 
